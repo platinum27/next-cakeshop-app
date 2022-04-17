@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "http://localhost:3000",
+        "BASE_URL": "https://next-cakeshop.vercel.app",
         //"MONGODB_URL": "mongodb://localhost:27017/nextshop",
         "MONGODB_URL": "mongodb+srv://openchoice:p9uRjVD01iesLDB6@cluster0.dhkbd.mongodb.net/next_cakeshop?retryWrites=true&w=majority",
         "ACCESS_TOKEN_SECRET": "k&T(cHK3U[a4N(*n9YG&",
